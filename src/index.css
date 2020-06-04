@@ -1,0 +1,13 @@
+body {
+
+}
+.container {
+  width: 50%;
+  margin: 6rem auto;
+}
+.quote-text {
+  font-size: 2rem;
+}
+.button-group {
+  margin-top: 3.5rem;
+}
